@@ -5,7 +5,7 @@ I am a Computer Science student at the University of Houston, currently in my ju
 I use this GitHub to share personal projects, coursework, and professional work focused on building scalable software, data driven systems, and full stack applications.
 
 ## What I’m Doing Now
-- Studying Computer Science at the University of Houston with an expected graduation of May 2027
+- Studying Computer Science at the University of Houston with an expected graduation of December 2027
 - Working as a Contract Software Engineer at Tradewatch Automation
 - Building and refining full stack and backend focused personal projects
 
