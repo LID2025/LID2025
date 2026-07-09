@@ -10,6 +10,7 @@ I use this GitHub to share personal projects, coursework, and professional work 
 - Building and refining full stack and backend focused personal projects
 
 ## Experience
+- Software Engineer itern at Sysco
 - Contract Software Engineer at Tradewatch Automation
 - Full Stack Developer Intern at SKIPQ
 - Freelance Web Developer
@@ -31,7 +32,6 @@ Most of my personal and academic projects are available here and focus on real w
 ## Certifications
 - Professional Scrum Master I
 - Microsoft Azure Fundamentals
-- Certified Associate in Project Management
 - NIST Risk Management Framework Intro
 
 ## Connect
